@@ -1,0 +1,1 @@
+{ "name": "what-changed", "version": "0.1.0", "description": "Band above the prompt counting files Claude changed this turn, with a toast for files in final/.", "types": "./types/index.d.ts" }

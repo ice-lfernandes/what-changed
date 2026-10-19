@@ -1,0 +1,5 @@
+{
+  "name": "what-changed",
+  "owner": { "name": "Lucas Fernandes" },
+  "plugins": [{ "name": "what-changed", "source": "./" }]
+}
